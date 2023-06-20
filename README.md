@@ -1,4 +1,4 @@
-# Pizzaria Azterisco - Um sistema de gerenciamento de pedidos de uma pizzaria 🍕
+# Pizzaria Asterisco - Um sistema de gerenciamento de pedidos de uma pizzaria 🍕
 
 Este projeto é uma aplicação de gerenciamento de pedidos de uma pizzaria construída na linguagem C. <br>
 <p>
